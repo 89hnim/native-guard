@@ -1,0 +1,13 @@
+# ninja log v5
+0	589	1699330382719360363	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+590	714	1699330382819202922	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252
+1	792	1699331167550741358	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+792	1032	1699331167774682235	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252
+1	1066	1699341031137123694	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+1066	1420	1699341031462713957	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252
+1	1259	1699341329342911523	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+1259	1535	1699341329599189681	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252
+1	675	1699341343528707108	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+675	817	1699341343646482379	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252
+0	1106	1699342054047015853	CMakeFiles/native_guard.dir/native_guard.cpp.o	eae62513e12bf242
+1106	1381	1699342054300557424	/Users/minh.tran13/Desktop/SecuringSample/native-guard/build/intermediates/cxx/Debug/1di4ik72/obj/x86_64/libnative_guard.so	606743e5aac7252

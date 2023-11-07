@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/minh.tran13/Desktop/SecuringSample/native-guard/.cxx/Debug/1di4ik72/x86",
+  "command": "/Users/minh.tran13/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android24 --sysroot=/Users/minh.tran13/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_guard_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/native_guard.dir/native_guard.cpp.o -c /Users/minh.tran13/Desktop/SecuringSample/native-guard/src/main/cpp/native_guard.cpp",
+  "file": "/Users/minh.tran13/Desktop/SecuringSample/native-guard/src/main/cpp/native_guard.cpp"
+}
+]

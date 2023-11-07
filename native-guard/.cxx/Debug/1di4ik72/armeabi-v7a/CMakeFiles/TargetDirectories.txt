@@ -1,0 +1,3 @@
+/Users/minh.tran13/Desktop/SecuringSample/native-guard/.cxx/Debug/1di4ik72/armeabi-v7a/CMakeFiles/native_guard.dir
+/Users/minh.tran13/Desktop/SecuringSample/native-guard/.cxx/Debug/1di4ik72/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/minh.tran13/Desktop/SecuringSample/native-guard/.cxx/Debug/1di4ik72/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86_64/CMakeFiles/securingsample.dir
+/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86_64/CMakeFiles/edit_cache.dir
+/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86_64",
+  "command": "/Users/minh.tran13/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android24 --sysroot=/Users/minh.tran13/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsecuringsample_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/securingsample.dir/native-lib.cpp.o -c /Users/minh.tran13/Desktop/SecuringSample/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/minh.tran13/Desktop/SecuringSample/app/src/main/cpp/native-lib.cpp"
+}
+]

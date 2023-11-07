@@ -1,0 +1,5 @@
+# ninja log v5
+0	719	1699328666400016786	CMakeFiles/securingsample.dir/native-lib.cpp.o	c5597335fc3515ff
+720	1132	1699328666785818495	/Users/minh.tran13/Desktop/SecuringSample/app/build/intermediates/cxx/Debug/n6l545p2/obj/x86_64/libsecuringsample.so	f97010a6895f7ae0
+1	1139	1699329067612563845	CMakeFiles/securingsample.dir/native-lib.cpp.o	c5597335fc3515ff
+1139	1458	1699329067903274101	/Users/minh.tran13/Desktop/SecuringSample/app/build/intermediates/cxx/Debug/n6l545p2/obj/x86_64/libsecuringsample.so	f97010a6895f7ae0

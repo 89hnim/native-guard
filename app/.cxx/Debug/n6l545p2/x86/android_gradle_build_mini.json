@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/minh.tran13/Desktop/SecuringSample/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/minh.tran13/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/minh.tran13/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/minh.tran13/Desktop/SecuringSample/app/.cxx/Debug/n6l545p2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "securingsample::@6890427a1f51a3e7e1df": {
+      "artifactName": "securingsample",
+      "abi": "x86",
+      "output": "/Users/minh.tran13/Desktop/SecuringSample/app/build/intermediates/cxx/Debug/n6l545p2/obj/x86/libsecuringsample.so",
+      "runtimeFiles": []
+    }
+  }
+}
